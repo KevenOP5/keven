@@ -1,0 +1,1 @@
+shutdwon -s -t 300
